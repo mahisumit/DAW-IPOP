@@ -1,4 +1,4 @@
 # DAW-IPOP
 # 📁Fitxes IPOP
-  #  📄WORD
-  #  📄PDF
+  -  📄WORD
+  -  📄PDF
