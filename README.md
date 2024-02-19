@@ -2,3 +2,4 @@
 # 📁Fitxes IPOP
   -  📄WORD
   -  📄PDF
+#👨‍💻 Curriculum
