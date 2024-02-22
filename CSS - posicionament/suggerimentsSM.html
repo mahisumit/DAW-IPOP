@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>Pàgina Suggeriments</title>
+	<link rel="stylesheet" type="text/css" href="estilsSM.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<article>
+		<header>
+				<h1>Suggeriments</h1>		
+		</header>
+		<section>
+				<ul>
+					<li><a class="active" href="suggerimentsSM.html">Suggeriments</a></li>
+					<li><a href="indexSM.html"></i>Inicial</a></li>
+					<li><a href="quisocSM.html">Qui Sóc</a></li>
+					<li><a href="horarisSM.html">Horaris</a></li>
+					<li><a href="aficionsSM.html">Aficions</a></li>
+					<li><a href="musicaSM.html">Música Preferits</a></li>
+					<li><a href="exercicisSM.html">Exercisis</a></li>
+				</ul>
+		</section>
+			<br>
+		 <form action="processar_formulari.php" method="post">
+			<label for="nom">Nom:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="text" id="nom" name="nom" required placeholder="El teu nom" />
+			<br><br>
+			<label for="nom">Cognom:</label>
+			<input type="text" id="cognom" name="cognom" required placeholder="Els teus cognoms"/>
+			<br><br>
+			<label for="nom">Telèfon:</label>&nbsp;&nbsp; 
+			<input type="text" id="telèfon" name="telèfon" required placeholder="📞"/>
+			<br><br>
+			 <label for="categoria">Categoria:</label>
+			<select id="categoria" name="categoria" required>
+				<option value="suggeriment">Suggeriment</option>
+				<option value="problema">Problema</option>
+				<option value="elogi">Elogi</option>
+			</select>
+			<br>
+			<p><label for="comentaris">Qualsevol comentari:</label></p>
+				<textarea id="comentaris" name="comentaris" rows="4" cols="50"></textarea>
+			<br><br>
+			<label>Tipus de visita:</label>
+				<input type="radio" id="nova_visita" name="tipus_visita" value="nova_visita" checked>
+				<label for="nova_visita">Nova visita</label>
+				<input type="radio" id="repetida_visita" name="tipus_visita" value="repetida_visita">
+				<label for="repetida_visita">Repetida visita</label>
+			<br><br>
+			<label>Preferències:</label>
+				<input type="checkbox" id="ofertes" name="preferencia[]" value="ofertes">
+				<label for="ofertes">Rebre ofertes</label>
+				<input type="checkbox" id="actualitzacions" name="preferencia[]" value="actualitzacions">
+				<label for="actualitzacions">Rebre actualitzacions</label>
+			<br><br>
+			<div class="star-rating">
+			<fieldset>
+				😊<input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Outstanding"> <span>5★</span></label>
+				<input type="radio" id="star4" name="rating" value="4" /><label for="star4" title="Very Good"> <span>4★</span></label>
+				<input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Good"> <span>3★</span></label>
+				<input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Poor"> <span>2★</span></label>
+				<input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Very Poor"> <span>1★😒</span></label>
+			</fieldset>
+			<br><br>
+			<input type="submit" value="Enviar suggeriment"/>
+			<button onclick="document.location='mailto:s.mahi@sapalomera'">Mail me</button>
+		</form>
+		<br><br>
+		<footer class="footer">
+        <div>
+            <p>Sumit Mahi</p>
+            <p><a href="mailto:s.mahi@sapalomera.cat">s.mahi@sapalomera.cat</a></p>
+			<p>Institut Sa Palomera Blanes</p>
+			<img src="https://www.sapalomera.cat/wp-content/themes/SaPalomeraTheme/img/logo-institut-sapalomera.png" style="width:140px;height:100px;class="center"><br>
+            <a href="https://www.linkedin.com/in/sumit-mahi-200014240/?originalSubdomain=es" " target="_blank" class="fa fa-linkedin"></a>
+			<a href="https://twitter.com/" " target="_blank" class="fa fa-twitter"></a>
+        </div>
+		</footer>		
+	</article>
+</body>
+</html>
