@@ -28,7 +28,7 @@ Aquí compartiré els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/t
 ***
 
 ## 📁Fitxes IPOP
-  -  📄WORD
-  -  📄PDF
+  -  📄[PDF](https://github.com/mahisumit/DAW-IPOP/tree/main/FItxes%20IPOP/PDF)
+  -  📄[WORD](https://github.com/mahisumit/DAW-IPOP/tree/main/FItxes%20IPOP/WORD)
 
-
+***
