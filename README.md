@@ -1,7 +1,7 @@
 # DAW-IPOP
 ## Continguts
   1. [General Info](#general-info)
-  2. [Curriculum Vital](#curriculum)
+  2. [Curriculum](#curriculum)
   3. [Fitxes IPOP](#fitxes-IPOP)
 
 ***
