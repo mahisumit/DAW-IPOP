@@ -9,10 +9,14 @@
 Hola em dic Sumit Mahi.
 
 ***
-## Curriculum
+## 👨‍💻 Curriculum
+Hi ha el meu Curriculum.
 
-# 📁Fitxes IPOP
+***
+##📁Fitxes IPOP
   -  📄WORD
   -  📄PDF
-# 👨‍💻 Curriculum
-# 🗞️ Certificats
+
+***
+
+## 🗞️ Certificats
