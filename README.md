@@ -22,7 +22,7 @@ A continuació, presentaré el meu currículum vitae, que conté detalls essenci
 ***
 
 ## Certificats
-Aquí compartiré els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/tree/main/Certificats) que he rebut amb els meus estudis.
+Aquí comparteixo els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/tree/main/Certificats) que he rebut amb els meus estudis.
 
 
 ***
