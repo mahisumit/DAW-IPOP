@@ -9,7 +9,7 @@
 Hola em dic Sumit Mahi.
 
 ***
-## Curriculum
+## 👨‍💻Curriculum
 Hi ha el meu Curriculum.
 
 ***
