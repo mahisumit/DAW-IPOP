@@ -8,7 +8,7 @@
 
 ***
 ## Informació general
-Hola em dic Sumit Mahi.
+Hola, el meu nom és Sumit Mahi. Sóc un estudiant de DAW i em passiona l'àmbit de la informàtica. Tinc coneixements en HTML, XML, Java, CSS, DTD i MySQL. Estic sempre interessat en aprendre més sobre tecnologies emergents i millorar les meves habilitats en el camp de la informàtica. M'encanta explorar noves idees i solucions innovadores dins del món de la tecnologia de la informació.
 
 ***
 
