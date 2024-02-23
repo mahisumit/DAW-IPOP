@@ -1,13 +1,13 @@
 # DAW-IPOP
 ## Continguts
-  1. [General Info](#general-info)
+  1. [Informació general](#informació-general)
   2. [Curriculum](#curriculum)
   3. [Certificats](#certificats)
   4. [Fitxes IPOP](#fitxes-IPOP)
      
 
 ***
-## General Info
+## Informació general
 Hola em dic Sumit Mahi.
 
 ***
