@@ -17,7 +17,7 @@ Hi ha el meu Curriculum.
 
 ***
 
-## 🗞️Certificats
+## Certificats
 
 ***
 
