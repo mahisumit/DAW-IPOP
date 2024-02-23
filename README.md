@@ -13,7 +13,8 @@ Hola em dic Sumit Mahi.
 ***
 
 ## 👨‍💻Curriculum
-Hi ha el meu Curriculum.
+A continuació, presentaré el meu currículum vitae, que conté detalls essencials sobre mi mateix, que inclou les meves habilitats, la meva trajectòria laboral, l'educació i molt més. Aquest document es lliurarà en tres idiomes: català, castellà i anglès.
+
 
 ***
 
