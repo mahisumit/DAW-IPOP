@@ -15,8 +15,8 @@ Hola, el meu nom és Sumit Mahi. Sóc un estudiant de DAW i em passiona l'àmbit
 ## 👨‍💻Curriculum
 A continuació, presentaré el meu currículum vitae, que conté detalls essencials sobre mi mateix, que inclou les meves habilitats, la meva trajectòria laboral, l'educació i molt més. Aquest document es lliurarà en tres idiomes: català, castellà i anglès.
 * [Curriculum Vitae Catala](https://github.com/mahisumit/DAW-IPOP/blob/main/Curriculum/Curr%C3%ADculum%20Catala.pdf)
-<!--  * [Curriculum Vitae Castella]
-* [Curriculum Vitae Anglès] -->
+<!--  * [Curriculum Vitae Castella] -->
+* [Curriculum Vitae Anglès](https://github.com/mahisumit/DAW-IPOP/blob/main/Curriculum/Curr%C3%ADculum%20Angl%C3%A8s.pdf)
 
 
 ***
