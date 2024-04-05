@@ -32,3 +32,5 @@ Aquí comparteixo els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/t
   -  📄[WORD](https://github.com/mahisumit/DAW-IPOP/tree/main/FItxes%20IPOP/WORD)
 
 ***
+
+## Portafolio
