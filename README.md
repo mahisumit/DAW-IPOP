@@ -4,7 +4,7 @@
   2. [Curriculum](#curriculum)
   3. [Certificats](#certificats)
   4. [Fitxes IPOP](#fitxes-IPOP)
-  5. [Portafolio](#portafolio)
+  5. [Portfolio](#portfolio)
      
 
 ***
@@ -34,4 +34,4 @@ Aquí comparteixo els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/t
 
 ***
 
-## Portafolio
+## Portfolio
