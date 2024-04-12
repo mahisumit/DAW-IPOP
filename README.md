@@ -36,5 +36,5 @@ Aquí comparteixo els meus [Certificats](https://github.com/mahisumit/DAW-IPOP/t
 
 ## Portfolio
 
-Comparteixo l'enllaç del meu [portafoli digital](https://smahi2.wixsite.com/website-2).
+Comparteixo l'enllaç del meu [Portafoli Digital](https://smahi2.wixsite.com/website-2).
 
